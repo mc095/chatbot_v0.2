@@ -1,0 +1,37 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Log files
+*.log
+
+# Environment variables file
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore IDE and editor settings
+.idea/
+.vscode/
+*.swp
+
+# Ignore coverage reports
+htmlcov/
+.coverage
+
+# Ignore local configuration files
+local_config.py
+
+# Ignore data files
+data/

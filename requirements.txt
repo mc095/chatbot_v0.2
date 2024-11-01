@@ -1,0 +1,7 @@
+huggingface-hub
+textblob
+nltk
+langchain
+python-dotenv
+chainlit
+literalai
